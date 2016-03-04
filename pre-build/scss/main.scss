@@ -1,0 +1,63 @@
+body {
+	margin:0;
+	padding: 0;
+	overflow-x:hidden;
+	ul {
+		margin:0;
+		padding: 0;
+		li{
+			list-style: none;
+			display: inline-block;
+		}
+	}
+	button {
+		cursor: pointer;
+	}
+	a {
+		text-decoration: none;
+		color:white;
+	}
+	hr {
+	    clear: both;
+	    width: 90%;
+	    margin-top: 79px;
+	    margin-bottom: 0;
+	    border: 0;
+	    color: #E8E8E8;
+	    background-color: #E8E8E8;
+	    height: 1px;
+	}
+	div#main {
+			nav.mobile_menu {
+				display: none;
+				text-align:center;
+				ul {
+					li {
+						
+						display: block;
+						background-color:#1A1F33;
+						border-bottom:1px solid black;
+						
+						a {
+							color:white;
+							padding-top:4%;
+						padding-bottom:4%;
+						display: block;
+						}
+					}
+				}
+				&.active {
+					display: block;
+				}
+			}
+	}
+	div#main {
+		@import 'header' ;
+		@import 'how_it_works' ;
+		@import 'what_is_sofisto' ;
+		@import 'last_month_sent';
+		@import 'join_the_club';
+	}
+	@import 'footer';
+
+}

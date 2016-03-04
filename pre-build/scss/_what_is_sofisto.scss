@@ -1,0 +1,517 @@
+section#what_is_sofisto {
+    width: 100%;
+    min-height: 439px;
+	div.what_is_sofisto_container {
+		width: 90%;
+    	margin: 0 5%;
+		div.what_is_sofisto_inner_container {
+	        width: 90%;
+			margin: 0 5%;
+			div.what_is_sofisto_content {
+				    display: inline-block;
+			        width: 33%;
+				    float: left;
+				    margin-top: 6%;
+				    margin-right: 9%;
+
+				h2 {
+				    margin: 0 10px;
+				    font-size: 65px;
+				    font-family: serif;
+				    font-weight: 100;
+				}
+				p {
+				    color: #9b9b9b;
+				    font-size: 14px;
+				    line-height: 21px;
+				    padding-left: 4%;
+				}
+				div.button-container {
+					padding-left: 4%;
+					button {
+					    background-color: #DEA9A1;
+					    border-radius: 20px;
+					    border: 1px solid #DEA9A1;
+					    padding: 8px 25px;
+					    margin-top: 15px;
+					    font-size: 13px;
+					    color: #FFFFFF;
+					}
+				}
+			}
+			div.what_is_sofisto_image {
+				    display: inline-block;
+				    width: 58%;
+				    float: right;
+				    position:relative;
+				img {
+					width:120%;
+				}
+				div.sofisto_price_rounded {
+					div.sofisto_price_rounded_container {
+					    display: inline;
+					    padding: 9px 13px;
+					    text-align: center;
+					    position: absolute;
+					    top: 32%;
+					    right: 26%;
+					    background-color: white;
+					    border: 1px solid #DEA9A1;
+					    border-radius: 40px;
+					    color: #CB8E85;
+						span.monthly {
+						    font-size: 10px;
+    						font-weight: 100;
+						}
+						span.price {
+						    font-size: 30px;
+						    position: relative;
+						    bottom: 5px;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+@media (min-width:220px) and (max-width:360px) {
+section#what_is_sofisto {
+    min-height: 500px;
+	div.what_is_sofisto_container {
+		    width: 96%;
+    margin: 0 2%;
+		div.what_is_sofisto_inner_container {
+	            width: 86%;
+    margin: 0 7%;
+    position:relative;
+			div.what_is_sofisto_content {
+				    
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top:77%;
+				h2 {
+				    font-size: 50px;
+    line-height: 55px;
+				}
+				p {
+				    font-size: 14px;
+    line-height: 19px;
+    text-align: justify;
+    padding-right: 3%;
+				}
+				div.button-container {
+					
+					button {
+					    
+					}
+				}
+			}
+			div.what_is_sofisto_image {
+		        position: absolute;
+			    top: 0;
+			    right: 0;
+			    z-index: -1;
+			    width: 100%;
+				img {
+					
+				}
+				div.sofisto_price_rounded {
+					div.sofisto_price_rounded_container {
+					    
+						span.monthly {
+						    
+						}
+						span.price {
+						    
+						}
+					}
+				}
+			}
+		}
+	}
+}
+}	
+@media (min-width:360px) and (max-width:550px) {
+	section#what_is_sofisto {
+    min-height: 600px;
+	div.what_is_sofisto_container {
+		    width: 96%;
+    margin: 0 2%;
+		div.what_is_sofisto_inner_container {
+	            width: 86%;
+    margin: 0 7%;
+    position:relative;
+			div.what_is_sofisto_content {
+				    
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top:77%;
+				h2 {
+				    font-size: 50px;
+    line-height: 55px;
+				}
+				p {
+				    font-size: 14px;
+    line-height: 19px;
+    text-align: justify;
+    padding-right: 3%;
+				}
+				div.button-container {
+					
+					button {
+					    
+					}
+				}
+			}
+			div.what_is_sofisto_image {
+		        position: absolute;
+			    top: 0;
+			    right: 0;
+			    z-index: -1;
+			    width: 100%;
+				img {
+					
+				}
+				div.sofisto_price_rounded {
+					div.sofisto_price_rounded_container {
+					    
+						span.monthly {
+						    
+						}
+						span.price {
+						    
+						}
+					}
+				}
+			}
+		}
+	}
+}
+}	
+@media (min-width:550px) and (max-width:768px) {
+	section#what_is_sofisto {
+    min-height: 700px;
+	div.what_is_sofisto_container {
+		    width: 96%;
+    margin: 0 2%;
+		div.what_is_sofisto_inner_container {
+	            width: 86%;
+    margin: 0 7%;
+    position:relative;
+			div.what_is_sofisto_content {
+				    
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top:77%;
+				h2 {
+				    font-size: 50px;
+    line-height: 55px;
+				}
+				p {
+				    font-size: 14px;
+    line-height: 19px;
+    text-align: justify;
+    padding-right: 3%;
+				}
+				div.button-container {
+					
+					button {
+					    
+					}
+				}
+			}
+			div.what_is_sofisto_image {
+		        position: absolute;
+			    top: 0;
+			    right: 0;
+			    z-index: -1;
+			    width: 100%;
+				img {
+					
+				}
+				div.sofisto_price_rounded {
+					div.sofisto_price_rounded_container {
+					    
+						span.monthly {
+						    
+						}
+						span.price {
+						    
+						}
+					}
+				}
+			}
+		}
+	}
+}
+}	
+@media (min-width:768px) and (max-width:1000px) {
+
+}	
+@media (min-width:1000px) and (max-width:1255px) {
+	section#what_is_sofisto {
+    
+		div.what_is_sofisto_container {
+			
+			div.what_is_sofisto_inner_container {
+		        
+				div.what_is_sofisto_content {
+					    
+
+					h2 {
+					    
+					}
+					p {
+					    
+					}
+					div.button-container {
+						
+						button {
+						    
+						}
+					}
+				}
+				div.what_is_sofisto_image {
+					    
+					img {
+						
+					}
+					div.sofisto_price_rounded {
+						div.sofisto_price_rounded_container {
+						    
+							span.monthly {
+							    
+							}
+							span.price {
+							    
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+@media (min-width:1255px) and (max-width:1450px) {
+	section#what_is_sofisto {
+    min-height: 510px;
+		div.what_is_sofisto_container {
+			
+			div.what_is_sofisto_inner_container {
+		        
+				div.what_is_sofisto_content {
+					    
+
+					h2 {
+					    margin-left: 40px;
+					}
+					p {
+					 	margin-left: 30px;   
+					}
+					div.button-container {
+						margin-left: 30px;
+						button {
+						    
+						}
+					}
+				}
+				div.what_is_sofisto_image {
+					    
+					img {
+						
+					}
+					div.sofisto_price_rounded {
+						div.sofisto_price_rounded_container {
+						    
+							span.monthly {
+							    
+							}
+							span.price {
+							    
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+@media (min-width:1450px) and (max-width:1550px) {
+	section#what_is_sofisto {
+    	min-height: 510px;
+		div.what_is_sofisto_container {
+			
+			div.what_is_sofisto_inner_container {
+		        
+				div.what_is_sofisto_content {
+					    
+
+					h2 {
+					    margin-left: 80px;
+					}
+					p {
+					 	margin-left: 70px;   
+					}
+					div.button-container {
+						margin-left: 70px;
+						button {
+						    
+						}
+					}
+				}
+				div.what_is_sofisto_image {
+					    
+					img {
+						
+					}
+					div.sofisto_price_rounded {
+						div.sofisto_price_rounded_container {
+						    
+							span.monthly {
+							    
+							}
+							span.price {
+							    
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}		
+@media (min-width:1550px) and (max-width:1750px) {
+	section#what_is_sofisto {
+    min-height: 600px;
+		div.what_is_sofisto_container {
+			
+			div.what_is_sofisto_inner_container {
+		        
+				div.what_is_sofisto_content {
+					    
+
+					h2 {
+					    
+					}
+					p {
+					 	  
+					}
+					div.button-container {
+						
+						button {
+						    
+						}
+					}
+				}
+				div.what_is_sofisto_image {
+					    
+					img {
+						
+					}
+					div.sofisto_price_rounded {
+						div.sofisto_price_rounded_container {
+						    
+							span.monthly {
+							    
+							}
+							span.price {
+							    
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}  
+@media (min-width:1750px) {
+	section#what_is_sofisto {
+    min-height: 650px;
+		div.what_is_sofisto_container {
+			
+			div.what_is_sofisto_inner_container {
+		        
+				div.what_is_sofisto_content {
+					    
+
+					h2 {
+					    
+					}
+					p {
+					 	  
+					}
+					div.button-container {
+						
+						button {
+						    
+						}
+					}
+				}
+				div.what_is_sofisto_image {
+					    
+					img {
+						
+					}
+					div.sofisto_price_rounded {
+						div.sofisto_price_rounded_container {
+						    
+							span.monthly {
+							    
+							}
+							span.price {
+							    
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}  
+/*
+section#what_is_sofisto {
+    
+	div.what_is_sofisto_container {
+		
+		div.what_is_sofisto_inner_container {
+	        
+			div.what_is_sofisto_content {
+				    
+
+				h2 {
+				    
+				}
+				p {
+				    
+				}
+				div.button-container {
+					
+					button {
+					    
+					}
+				}
+			}
+			div.what_is_sofisto_image {
+				    
+				img {
+					
+				}
+				div.sofisto_price_rounded {
+					div.sofisto_price_rounded_container {
+					    
+						span.monthly {
+						    
+						}
+						span.price {
+						    
+						}
+					}
+				}
+			}
+		}
+	}
+}
+*/
